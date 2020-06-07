@@ -1,2 +1,0 @@
-# we-write
-A BLOG
